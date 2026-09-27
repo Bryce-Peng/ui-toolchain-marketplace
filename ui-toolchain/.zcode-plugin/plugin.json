@@ -1,0 +1,9 @@
+{
+  "name": "ui-toolchain",
+  "version": "0.1.0",
+  "description": "UI quality toolchain: design spec & 7-dimension rubric, authoritative UX audit checklists, aesthetic direction guidance, screenshot review command and an independent reviewer agent",
+  "author": { "name": "brycepeng" },
+  "skills": "./skills",
+  "commands": "./commands",
+  "agents": "./agents"
+}
